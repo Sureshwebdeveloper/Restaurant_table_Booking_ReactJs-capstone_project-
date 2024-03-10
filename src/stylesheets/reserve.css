@@ -1,0 +1,186 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+.form-container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  background: #f0c258;
+  flex: 1;
+}
+
+.content_form {
+  flex: 0.5;
+  margin-right: 100px;
+}
+
+.content_form h1 {
+  font-size: 50px;
+  color: #2d2d2d;
+  text-shadow: 2px 7px 5px rgba(0, 0, 0, 0.3),
+    0px -4px 10px rgba(255, 255, 255, 0.676);
+  max-width: 500px;
+}
+
+.content_form h3 {
+  margin-top: 20px;
+  font-size: 30px;
+  color: #f7f7f7d4;
+  /* max-width: 500px; */
+}
+
+form {
+  margin-top: 150px;
+  margin-bottom: 20px;
+  margin-right: 100px;
+  background: #fff;
+  box-shadow: 4px 4px 15px rgba(0, 0, 0.3);
+  border-radius: 20px;
+  /* width: 350px; */
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  flex: 0.4;
+  align-items: center;
+  justify-content: start;
+  /* gap: 15px; */
+}
+
+form h1 {
+  margin-top: 20px;
+  color: #505050;
+  font-weight: bolder;
+}
+
+form p {
+  max-width: 300px;
+  line-height: 1.2;
+  margin: 20px 0px;
+}
+
+input,
+select {
+  padding: 15px;
+  width: 350px;
+  border-radius: 10px;
+  outline: none;
+  border: 1px solid lightgrey;
+  margin: 10px 0px;
+  /* border: none; */
+}
+
+label {
+  color: #505050;
+  font-size: 17px;
+  font-weight: 500;
+}
+.reserve-button {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 15px;
+  padding: 15px 40px;
+  outline: none;
+  border: none;
+  border-radius: 20px;
+  margin-top: 15px;
+  color: #000000;
+  font-weight: bold;
+  background: #ffe032;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  width: 75%;
+}
+
+/* this for error style applay  */
+#error {
+  top: 2px;
+  margin-left: 5px;
+  margin-bottom: 10px;
+  color: red;
+}
+
+#mandatory {
+  color: rgba(255, 0, 0, 0.833);
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 767px) {
+  .form-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex: 1;
+    padding-top: 150px;
+  }
+  .content_form {
+    margin: 10px auto;
+  }
+  .content_form h1 {
+    font-size: 35px;
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .content_form h3 {
+    display: none;
+  }
+  form {
+    margin: 30px auto;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .form-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex: 1;
+    padding-top: 150px;
+  }
+  .content_form {
+    margin: 10px auto;
+  }
+  .content_form h1 {
+    font-size: 35px;
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .content_form h3 {
+    display: none;
+  }
+  form {
+    margin: 30px 45px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1439px) {
+  .form-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex: 1;
+    padding-top: 150px;
+  }
+  .content_form {
+    margin: 10px auto;
+  }
+  .content_form h1 {
+    font-size: 45px;
+    width: 450px;
+    text-align: center;
+    margin: 0px auto;
+  }
+  .content_form h3 {
+    display: none;
+  }
+  form {
+    margin: 30px auto;
+    padding: 20px 20px;
+  }
+}

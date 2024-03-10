@@ -1,0 +1,212 @@
+[
+  {
+    "name": "apple-pie",
+    "id": 1,
+    "price": "$10",
+    "alt": "apple-pie",
+    "url": "apple-pie.webp"
+  },
+  {
+    "name": "Bruchetta",
+    "id": 2,
+    "price": "$12.5",
+    "alt": "Bruchetta",
+    "url": "Bruchetta.jpg"
+  },
+  {
+    "name": "Buffalo-chicken",
+    "id": 3,
+    "price": "$13.5",
+    "alt": "buffalochickenwings",
+    "url": "buffalo-chicken-wings.jpg"
+  },
+  {
+    "name": "CheeseBurger",
+    "id": 4,
+    "price": "$34",
+    "alt": "cheesBurger",
+    "url": "cheese-burger.png"
+  },
+  {
+    "name": "cheese-sandwich",
+    "id": 5,
+    "price": "$22",
+    "alt": "cheesSandwich",
+    "url": "cheese-sandwich.webp"
+  },
+  {
+    "name": "chicken-parmesan",
+    "id": 6,
+    "price": "17$",
+    "alt": "chicken_parmesan_penne_pasta",
+    "url": "One-Pot-Chicken-Parmesan-Pasta-7.jpg"
+  },
+  {
+    "name": "Cocktails",
+    "id": 7,
+    "price": "12$",
+    "alt": "Cocktails",
+    "url": "cocktails.webp"
+  },
+  {
+    "name": "coffee",
+    "id": 8,
+    "price": "5$",
+    "alt": "coffee",
+    "url": "coffe.webp"
+  },
+  {
+    "name": "IceCake",
+    "id": 9,
+    "price": "10$",
+    "alt": "IceCake",
+    "url": "creme.jpg"
+  },
+  {
+    "name": "Fried-Fish",
+    "id": 10,
+    "price": "12$",
+    "alt": "FriedFish",
+    "url": "fish.jpg"
+  },
+  {
+    "name": "French-Fries",
+    "id": 11,
+    "price": "14$",
+    "alt": "FrenchFries",
+    "url": "French-Fries.jpg"
+  },
+  {
+    "name": "Ginger-Tea",
+    "id": 12,
+    "price": "10$",
+    "alt": "GingerTea",
+    "url": "Ginger-Tea.jpg"
+  },
+  {
+    "name": "Greek-salad",
+    "id": 13,
+    "price": "14$",
+    "alt": "Greek-salad",
+    "url": "Greek_salad.jpg"
+  },
+  {
+    "name": "Hot-dogs",
+    "id": 14,
+    "price": "10$",
+    "alt": "hotdogs",
+    "url": "hot-dogs.webp"
+  },
+  {
+    "name": "Ice-Tea",
+    "id": 15,
+    "price": "15$",
+    "alt": "IceTea",
+    "url": "Iced-Tea.jpg"
+  },
+  {
+    "name": "Meatloaf",
+    "id": 16,
+    "price": "25$",
+    "alt": "Meatloaf",
+    "url": "meatloaf.webp"
+  },
+  {
+    "name": "Banana-MilkShake",
+    "id": 17,
+    "price": "15$",
+    "alt": "Banana-Milkshake",
+    "url": "bananaa-milkshake-1.jpg"
+  },
+  {
+    "name": "Nuggets",
+    "id": 18,
+    "price": "22$",
+    "alt": "Nuggets",
+    "url": "Nuggets.jpg"
+  },
+  {
+    "name": "Orange-Juice",
+    "id": 19,
+    "price": "16$",
+    "alt": "OrangeJuice",
+    "url": "Orange-Juice.jpeg"
+  },
+  {
+    "name": "Pizza",
+    "id": 20,
+    "price": "30$",
+    "alt": "Pizza",
+    "url": "Pizza.webp"
+  },
+  {
+    "name": "Sandwich",
+    "id": 21,
+    "price": "22$",
+    "alt": "Sandwich",
+    "url": "sandwitch.jpg"
+  },
+  {
+    "name": "Spicy-Chicken",
+    "id": 22,
+    "price": "30$",
+    "alt": "Spicy-Chicken",
+    "url": "Spicy-Chicken.jpg"
+  },
+  {
+    "name": "tini-mac-cheese",
+    "id": 23,
+    "price": "27$",
+    "url": "tini-mac-cheese.webp",
+    "alt": "TiniMacCheese"
+  },
+  {
+    "name": "Fruit-Salad",
+    "id": 24,
+    "price": "22$",
+    "url": "Fruit-Salad.jpg",
+    "alt": "FruitSalad"
+  },
+  {
+    "name": "Chicken-Burger",
+    "id": 25,
+    "price": "22$",
+    "url": "Chicken-Burger.webp",
+    "alt": "ChickenBurger"
+  },
+  {
+    "name": "Venilla-MilkShake",
+    "id": 26,
+    "price": "22$",
+    "url": "Milkshakes.jpg",
+    "alt": "Milkshakes"
+  },
+  {
+    "name": "Macaroni & Cheese",
+    "id": 27,
+    "price": "15$",
+    "url": "Macaroni-and-Cheese.jpg",
+    "alt": "Macaroni-and-Cheese"
+  },
+  {
+    "name": "Tater-Tots",
+    "id": 28,
+    "price": "16$",
+    "url": "Tater-Tots.jpg",
+    "alt": "Tater-Tots"
+  },
+  {
+    "name": "Chocolate-Chip-Cookies",
+    "id": 29,
+    "price": "10$",
+    "url": "Chocolate-Chip-Cookies.jpg",
+    "alt": "Chocolate-Chip-Cookies"
+  },
+  {
+    "name": "Chicken-Tenders",
+    "id": 30,
+    "price": "16$",
+    "url": "Chicken-Tenders.jpg",
+    "alt": "Chicken-Tenders"
+  }
+]
